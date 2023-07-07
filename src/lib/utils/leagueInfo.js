@@ -95,7 +95,7 @@ export const managers = [
       "name": "Hubz",
       "location": "", // (optional)
       "bio": "",
-      "photo": null, // square ratio recommended (no larger than 500x500)
+      "photo": "https://sleepercdn.com/uploads/498d5a3e2ae6112d5df655e3c92b79f9.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -179,7 +179,7 @@ export const managers = [
       "name": "zcoble",
       "location": "", // (optional)
       "bio": "",
-      "photo": null, // square ratio recommended (no larger than 500x500)
+      "photo": "https://sleepercdn.com/uploads/e18c59b3b575b9329ac8af5a9d3e49e9", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -200,7 +200,7 @@ export const managers = [
       "name": "Kelp",
       "location": "", // (optional)
       "bio": "",
-      "photo": null, // square ratio recommended (no larger than 500x500)
+      "photo": "https://sleepercdn.com/uploads/b6273b09967b6681c7cbf0f74987619e", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -221,7 +221,7 @@ export const managers = [
       "name": "Tim",
       "location": "", // (optional)
       "bio": "",
-      "photo": null, // square ratio recommended (no larger than 500x500)
+      "photo": "https://sleepercdn.com/uploads/d8b437b47d88c91d209f0a6589416429.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -242,7 +242,7 @@ export const managers = [
       "name": "bobcatdecimates",
       "location": "", // (optional)
       "bio": "",
-      "photo": null, // square ratio recommended (no larger than 500x500)
+      "photo": "https://sleepercdn.com/uploads/c30a1f1822cc6937272b744f2bc18917.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
