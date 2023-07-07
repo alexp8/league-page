@@ -74,7 +74,7 @@ export const managers = [
       "name": "The Gambler",
       "location": "", // (optional)
       "bio": "Cly",
-      "photo": null, // square ratio recommended (no larger than 500x500)
+      "photo": "https://sleepercdn.com/uploads/6a744a714b5b41bbf30c2a8b1c7e53ca.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
