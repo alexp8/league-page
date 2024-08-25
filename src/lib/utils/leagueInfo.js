@@ -9,12 +9,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome to the Cave Bois Fantasy Football Home Page!</p>
   <p>Subscribe to the Cave Bois Fantasy Football podcast! <a href='https://www.youtube.com/@CaveBoisFootball'>CaveBoisFootball</a></p>
-
-  <p>Most recent episode! <a href='https://www.youtube.com/watch?v=Fqo7zgWHZ9w'>Episode 3: He uses the TRADE BLOCK for this!?</a></p>
-
-  <br/>
-
-  <iframe width="500" height="315" src="https://www.youtube.com/watch?v=Fqo7zgWHZ9w" frameborder="0" allowfullscreen></iframe>
 `;
 
 /*   STEP 3   */
